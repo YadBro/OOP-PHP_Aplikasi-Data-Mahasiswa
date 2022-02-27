@@ -4,7 +4,7 @@
 
 Aplikasi data mahasiswa ini bisa di bilang V2 nya, dibuat dengan sederhana tetapi menggunakan konsep OOP pada PHP. Untuk V1 bisa klik link di bawah ini :
 
-[https://github.com/YadBro/Aplikasi_Data_Mahasiswa]: # Aplikasi Data Mahasiswa V1:
+[Aplikasi Data Mahasiswa V1](https://github.com/YadBro/Aplikasi_Data_Mahasiswa)  
 
 ### Installing
 
@@ -36,4 +36,4 @@ Bisa di clone atau di download, setelah itu lakukan hal ini:
 
     Kalian juga bisa belajar OOP pada PHP dengan klik link di bawah ini:
 
-[https://github.com/YadBro/OOP-PHP]: # OOP PHP:
+[OOP PHP](https://github.com/YadBro/OOP-PHP)  
