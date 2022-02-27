@@ -34,6 +34,6 @@ Bisa di clone atau di download, setelah itu lakukan hal ini:
 
 ## Belajar OOP PHP
 
-    Kalian juga bisa belajar OOP pada PHP dengan klik link di bawah ini:
+Kalian juga bisa belajar OOP pada PHP dengan klik link di bawah ini:
 
 [OOP PHP](https://github.com/YadBro/OOP-PHP)  
