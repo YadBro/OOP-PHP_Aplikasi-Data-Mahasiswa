@@ -47,7 +47,7 @@ class Query extends Database implements Aksi
 
     public function CreateData()
     {
-        $query = "INSERT INTO mahasiswa VALUES('', '$this->name', '$this->class', '$this->school', '$this->jurusan')";
+        $query = "INSERT INTO mahasiswa(name, class, school, jurusan) VALUES('$this->name', '$this->class', '$this->school', '$this->jurusan')";
 
         mysqli_query($this->sql, $query);
 

@@ -50,7 +50,7 @@ class User extends Database
 
         $password = password_hash($this->password, PASSWORD_DEFAULT);
 
-        mysqli_query($this->sql, "INSERT INTO user VALUES('','$this->username','$password')");
+        mysqli_query($this->sql, "INSERT INTO user (username, password) VALUES('$this->username','$password')");
 
         return mysqli_affected_rows($this->sql);
     }
